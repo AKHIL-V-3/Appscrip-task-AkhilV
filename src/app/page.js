@@ -1,4 +1,4 @@
-import './styles/global.css';
+import './Styles/global.css';
 import Header from "./Component/header/header"
 import Banner from './Component/banner/bannercontent';
 import Body from './Component/body/body';
